@@ -1,0 +1,7 @@
+exercicios feitos :
+resultado c
+print(s1 +' ' +2*(s2+' ')+3*(s3+' '))
+resultado d
+print(7*(s1+' '+ s2+' '))
+resultado e	
+print(5*(2*(s2)+s3+' '))
